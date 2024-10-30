@@ -39,3 +39,6 @@ By combining the trend (EMA) with variability (Z-score), this algorithm identifi
 - Sliding Window with Summaries
 
 Most of these solutions typically require more memory and CPU power than the currently implemented solution. However, they can be more accurate in different scenarios.
+
+![Figure_1](https://github.com/user-attachments/assets/2e65a248-84b3-4590-95f4-4044e08cae71)
+
